@@ -1,1 +1,2 @@
 # odin-recipes
+This project is to create a recipe website using HTML. At the end of the project, I hope to have perfected my skills in adding text, images, linking, and different features onto the screen.
