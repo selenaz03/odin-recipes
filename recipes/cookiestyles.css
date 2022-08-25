@@ -1,0 +1,19 @@
+* {
+    background-color: rgb(248, 219, 219);
+    font-family: "Georgia", serif;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+    font-weight: 800;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}

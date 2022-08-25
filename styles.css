@@ -1,0 +1,28 @@
+* {
+    background-color: rgb(222, 180, 222);
+}
+
+h1 {
+    color: rgb(91, 30, 69);
+    font-family: "Copperplate", cursive;
+    font-size: 90px;
+    text-align: center;
+    font-weight: 900;
+}
+
+img {
+    height: 450px;
+    width: 500px;
+}
+
+div {
+    text-align: center;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-family: "Copperplate", monospace;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+}

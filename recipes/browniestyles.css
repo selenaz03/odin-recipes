@@ -1,0 +1,14 @@
+* {
+    background-color: burlywood;
+    font-family: "Georgia", serif;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+    font-weight: 800;
+}
+
+div {
+    text-align: center;
+}
